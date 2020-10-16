@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/new/images"/>
+    <qresource prefix="/">
+        <file>img/cactus1.png</file>
+        <file>img/cactus2.png</file>
+        <file>img/cactus3.png</file>
+        <file>img/cactus4.png</file>
+        <file>img/land2.png</file>
+        <file>img/rex.png</file>
+        <file>img/game_over.png</file>
+    </qresource>
+</RCC>
